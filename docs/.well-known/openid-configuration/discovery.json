@@ -1,6 +1,6 @@
 {
-    "issuer": "https://https://raw.githubusercontent.com/lilley2412/eksa-oidc/main",
-    "jwks_uri": "https://https://raw.githubusercontent.com/lilley2412/eksa-oidc/main/keys.json",
+    "issuer": "https://lilley2412.github.io/eksa-oidc/",
+    "jwks_uri": "https://lilley2412.github.io/eksa-oidc/keys.json",
     "authorization_endpoint": "urn:kubernetes:programmatic_authorization",
     "response_types_supported": [
         "id_token"
